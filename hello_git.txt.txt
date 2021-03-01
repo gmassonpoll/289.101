@@ -1,1 +1,4 @@
+<!-- send help -->
 <!-- all i know is pain -->
+
+<!-- making commits saves to local, push sends to github servers -->
