@@ -1,0 +1,11 @@
+
+  .red {
+    
+    color: red;
+    
+  }
+  
+  
+  <!-- LINK TO external stylesheet -->
+  
+  <link rel= "stylesheet" href="styles.ccs" />
